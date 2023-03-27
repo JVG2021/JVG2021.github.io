@@ -2,14 +2,14 @@ body
 {
   background-color:#eef2f4;
 }
-.wrap
-{
-  margin:50px auto 0 auto;
-  width:100%;
-  display:flex;
-  align-items:space-around;
-  max-width:1200px;
+
+
+.flow{
+  padding-left: 7%;
 }
+
+
+
 .tile
 {
   width:380px;
