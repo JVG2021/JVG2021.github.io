@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+}
+
+#col-1 {
+  background-color: yellow;
+  flex: 1;
+}
+
+#col-2 {
+  background-color: orange;
+  flex: 1;
+}
+
+
+/* GIF PLAY ON HOVER */
+.static {
+  position:absolute;
+  background: white;
+  filter:grayscale(1);
+}
+
+.static:hover {
+  opacity:0;
+}
